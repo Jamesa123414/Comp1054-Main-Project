@@ -132,7 +132,7 @@ html {
     margin-left:30px;
     margin-top: 60px;
     padding-top:50%;
-    background: url('/img/first.webp') top center / cover no-repeat;
+    background: url('img/first.webp') top center / cover no-repeat;
     position: relative;
 }
 
@@ -196,7 +196,7 @@ html {
 }
 .hero-bubble {
     width: 536px;
-    background: url('/img/bubble.png') no-repeat center center;
+    background: url('img/bubble.png') no-repeat center center;
     background-size: cover;
     padding: 170px 0;
     box-sizing: border-box; 
